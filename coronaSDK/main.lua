@@ -1,4 +1,4 @@
-local numSprites = 8000
+local numSprites = 22000
 local frameCount = 0
 
 
